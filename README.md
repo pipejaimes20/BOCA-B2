@@ -1,2 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+<body>
+
+    <div class="flex-center">
+    </div id="fondo" class="flex-center">
+    
+    <div class="login">
+        <img class="logo-l" src="img/logo.png" alt="logo">
+        <h1>Ingresa</h1>
+        <form>
+            <label for="username">Usuario</label>
+            <input type="text" placeholder="Usuario">
+
+            <label for="password">Contraseña</label>
+            <input type="password" placeholder="Contraseña">
+
+            <input type="submit" value="Iniciar Sesion"> 
+
+        </form>
+
+    </div>
+</body>
+</html>
+
 # BOCA-B2
 descripcion del proyecto
